@@ -1,5 +1,4 @@
 # portfolio-part-3-Buchu97
-portfolio-part-3-Buchu97 created by GitHub Classroom
 
 🛍️ **Analysis of an E-commerce Dataset Part 3** 📈
 
