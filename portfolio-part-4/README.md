@@ -1,5 +1,4 @@
 # portfolio-part-4-Buchu97
-portfolio-part-4-Buchu97 created by GitHub Classroom
 
 🛒 **Supermarket Sales Analysis and Prediction** 📊
 
